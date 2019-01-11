@@ -1,8 +1,8 @@
-server:
+﻿server:
   port: 9527
 spring:
   application:
-    name: lovebuy-zuul-gateway
+    name: lovebuy-zuul-gateway--test
 eureka:
   client:
     service-url:
