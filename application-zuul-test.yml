@@ -2,7 +2,7 @@
   port: 9527
 spring:
   application:
-    name: lovebuy-zuul-gateway--test
+    name: lovebuy-zuul-gateway-test
 eureka:
   client:
     service-url:
